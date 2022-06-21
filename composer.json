@@ -1,5 +1,5 @@
 {
-    "name": "boycpp/tpmailer",
+    "name": "boycpp/tpmail",
     "description": "A powerful and beautiful php mailer for All of ThinkPHP and Other PHP Frameworks based SwiftMailer",
     "keywords": [
         "tp-mailer",
